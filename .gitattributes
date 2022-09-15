@@ -1,0 +1,22 @@
+*.png                     binary
+*.jpg                     binary
+*.dll                     binary
+*.exe                     binary
+*.suo                     binary
+*.cache                   binary
+*.pdb                     binary
+
+*.csproj.user             text    eol=crlf
+*.csproj                  text    eol=crlf
+*.manifest                text    eol=crlf
+*.settings                text    eol=crlf
+*.exe.config              text    eol=crlf
+*.vshost.exe.config       text    eol=crlf
+*.config                  text    eol=crlf
+*.cs                      text    eol=crlf
+*.sln                     text    eol=crlf
+*.txt                     text    eol=crlf
+*.json                    text    eol=crlf
+
+README.md                         eol=crlf
+
